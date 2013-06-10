@@ -1,0 +1,31 @@
+{
+  "name": "rile.js",
+  "version": "0.0.1",
+  "description": "HTML5 EPUB Reader",
+  "main": "devserver.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "express": "~3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebastianrosik/rile.js.git"
+  },
+  "keywords": [
+    "html5",
+    "epub",
+    "reader",
+    "viewer",
+    "zipjs"
+  ],
+  "author": "Sebastian Rosik <sebastian.rosik@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "2ee7ec333329dffe0cd31748ac564d481191da8c"
+}
